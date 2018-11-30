@@ -12,5 +12,5 @@ public class Power {
             --exponent;
         }
 
-        System.out.println("Answer = " + result);
+        System.out.println("Answer2 = " + result);
     }}

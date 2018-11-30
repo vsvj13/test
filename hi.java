@@ -13,5 +13,4 @@ public class Power {
         }
 
         System.out.println("Answer = " + result);
-    }
-}
+    }}
